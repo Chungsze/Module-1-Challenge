@@ -14,7 +14,8 @@ body {
     background-color: #2a607c;
     color: #ffffff;
     position: fixed;
-    height: 8%;
+    z-index: 1;
+    height: 100px;
     width: 100%;
    
 }
@@ -22,6 +23,21 @@ body {
 .header h1 {
     display: inline-block;
     font-size: 48px;
+}
+
+.button{
+    width: 400px;
+    border: none;
+    border-radius: 8px;
+    background-color: grey;
+    padding: 6px;
+    margin:5px;
+    font-size: large;
+   
+}
+
+.word{
+    color: white;
 }
 
 .header h1 .seo {
@@ -55,12 +71,15 @@ p {
 }
 
 .hero {
-    height: 800px;
+    height: 980px;
     width: 100%;
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
+    position: relative;
+    top:100%;
+    
 }
 
 .float-left {
