@@ -26,8 +26,8 @@ Provide instructions and examples for use. Include screenshots as needed.
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
 prework-study-guide/assets/image
 
-![upper part of the html](../Module-1-Challenge/assets/images/scr0.JPG)
-![lower part of the html](../Module-1-Challenge/assets/images/screen1.png)
+![upper part of the html](/screenshot/scr0.JPG)
+![lower part of the html](/screenshot/screen1.png)
 
 ## Credits
 
