@@ -2,26 +2,17 @@ Prework study guide
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+The assignment aim to apply the knowledge of Moduel 1 of bootcam front end development knowledge of HTML and CSS
+ 
 
-- What was your motivation? learn coding
-- Why did you build this project? To know how much I understand the course
-- What problem does it solve?I've solved the problems of how to upload the code to github with SSH
-- What did you learn? javascripts functions
+*The assigment made some changes as below:
+* rearrange the oreder of elements of css file to make it more readable.
+* Change the position properties of header elements of css file.
+* fix the bugs of missing link of the article tag of serach engine optimization.
+* use button element instead of ul elements for the nav bar.
 
-## Table of Contents (Optional)
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
 
-- [Description](#description)
-- [Table of Contents (Optional)](#table-of-contents-optional)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-- [Features](#features)
-- [How to Contribute](#how-to-contribute)
-- [Tests](#tests)
 
 ## Installation
 
@@ -35,7 +26,8 @@ Provide instructions and examples for use. Include screenshots as needed.
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
 prework-study-guide/assets/image
 
-![alt text](/assets/images/social-media-marketing.jpg)
+![upper part of the html](../Module-1-Challenge/assets/images/scr0.JPG)
+![lower part of the html](../Module-1-Challenge/assets/images/screen1.png)
 
 ## Credits
 
@@ -43,7 +35,7 @@ Chungsze
 
 If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
 
-https://courses.bootcampspot.com/courses/3095/modules#module_32055
+https://www.w3schools.com/html/html5_semantic_elements.asp
 
 ## License
 
