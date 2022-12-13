@@ -87,6 +87,33 @@ a {
     margin-left: 20px;
 }
 
+.search-engine-optimization img {
+    max-height: 230px;
+}
+
+.online-reputation-management img {
+    max-height: 230px;
+}
+
+.social-media-marketing img {
+    max-height: 230px;
+}
+
+.search-engine-optimization h2 {
+    margin-bottom: 10px;
+    font-size: 36px;
+}
+
+.online-reputation-management h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.social-media-marketing h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
 .search-engine-optimization {
     margin: 10px, solid black;
     margin-bottom: 20px;
@@ -201,33 +228,6 @@ p {
 }
 
 
-
-.search-engine-optimization img {
-    max-height: 230px;
-}
-
-.online-reputation-management img {
-    max-height: 230px;
-}
-
-.social-media-marketing img {
-    max-height: 230px;
-}
-
-.search-engine-optimization h2 {
-    margin-bottom: 10px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
 .footer {
     border: 30px;
