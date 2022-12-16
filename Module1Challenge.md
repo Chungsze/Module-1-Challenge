@@ -6,7 +6,7 @@ The assignment aim to apply the knowledge of Moduel 1 of bootcam front end devel
  
 
 *The assigment made some changes as below:
-* rearrange the oreder of elements of css file to make it more readable.
+* rearrange the order of elements of css file to make it more readable.
 * Change the position properties of header elements of css file.
 * fix the bugs of missing link of the article tag of serach engine optimization.
 * use button element instead of unorder list elements for the navigation bar.
